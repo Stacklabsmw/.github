@@ -1,12 +1,27 @@
-## Hi there 👋
+# Sebaslabs
 
- ## SEBAS LABS
- Sebas Labs is a Registered Company, in the STEM Field, Particullarly IT. At Stack systems, we focus on Software Engineering, which is further broken into Mobile, Web and Desktop Application Development. All is to go in line with the Founder's aim of helping small and established with no online presence have a very big and good customer base. <br/><br/>
-At Sebaslabs, a team of designers offers extensive designs in User Interface or User Experience and Graphics Design. We focus on the aim of your business, whilst making the end user appreciate above their expectation on the product offfered to them.<br/><br/>
-We also offer IT consultancy services which deal with more technical features of a business or product. We are very well trained to provide such services hence we approach the market with importance for both the Client and their end Users.<br/>
-## 🙋‍♀️ Mission Statement
-To leverage the use of Agile in Software development and make quality software for all kinds of businesses.
+Welcome to the Sebaslabs GitHub page! We are a software development company, registered under the Registrar of companies in Malawi, that specializes in community work in the IT industry, mobile application development, and cloud technologies.
 
- 
- 
-🌍 For more information visit : (https://sebaslabs.com/About.html)
+## About Us
+At Sebaslabs, we believe in creating innovative solutions that make a positive impact on society. We are passionate about using technology to solve real-world problems and improve people's lives. Our team is made up of experienced developers and designers who are committed to delivering high-quality software products and services.
+
+In addition to our work in the IT industry, we are also committed to giving back to the community. We partner with non-profit organizations and other community groups to provide technology solutions and support initiatives that promote social good.
+
+## Our Projects
+We have several ongoing projects that we are excited to share with the open-source community. These include:
+
+* Spyaware: A mobile application for tracking if there are suspicious app hidden deep in the Android system that could not be detected by antiviruses.
+* Nyumba265: A Mobile application to facilitate search for houses and apartments in Malawi easily.
+* ByIT: An e-commerce platform for IT related goods and businesses.
+
+All of our projects are built using the latest technologies and best practices in software development. We are constantly updating and improving our code to ensure that our products are secure, efficient, and user-friendly.
+
+## Our Technologies
+We use a variety of technologies to build our software products and services. These include:
+
+* Mobile app development: Flutter, React Native
+* Web development: React, Node.js, Django
+* Cloud technologies: AWS, Azure, Google Cloud Platform
+
+## Contact Us
+Thank you for visiting our GitHub page! If you have any questions or would like to learn more about our company, please don't hesitate to contact us at info@sebaslabs.com.
