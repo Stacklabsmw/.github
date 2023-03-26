@@ -11,7 +11,7 @@ In addition to our work in the IT industry, we are also committed to giving back
 We have several ongoing projects that we are excited to share with the open-source community. These include:
 
 * Spyaware: A mobile application for tracking if there are suspicious app hidden deep in the Android system that could not be detected by antiviruses.
-* Nyumba265: A Mobile application to facilitate search for houses and apartments in Malawi easily.
+* Nyumba265: A Mobile application to facilitate search for houses and apartments in Malawi easily. - https://play.google.com/store/apps/details?id=com.sebaslabs.nyumba
 * ByIT: An e-commerce platform for IT related goods and businesses.
 
 All of our projects are built using the latest technologies and best practices in software development. We are constantly updating and improving our code to ensure that our products are secure, efficient, and user-friendly.
