@@ -24,5 +24,8 @@ We use a variety of technologies to build our software products and services. Th
 * Web development: React, Node.js, Django
 * Cloud technologies: AWS, Azure, Google Cloud Platform
 
+## Developer Profile
+* https://play.google.com/store/apps/dev?id=7494628478465372396
+
 ## Contact Us
 Thank you for visiting our GitHub page! If you have any questions or would like to learn more about our company, please don't hesitate to contact us at info@stacklabsmw.com.
