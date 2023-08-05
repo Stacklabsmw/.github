@@ -13,7 +13,7 @@ We have several ongoing projects that we are excited to share with the open-sour
 
 * Spyaware: A mobile application for tracking if there are suspicious app hidden deep in the Android system that could not be detected by antiviruses.
 * Nyumba265: A Mobile application to facilitate search for houses and apartments in Malawi easily. - https://play.google.com/store/apps/details?id=com.sebaslabs.nyumba
-* 
+
 * Katolika: A Mobile application for the Malawian Community of Catholics and the Catholic Church. - https://play.google.com/store/apps/details?id=com.stacklabs.katolika
 
 All of our projects are built using the latest technologies and best practices in software development. We are constantly updating and improving our code to ensure that our products are secure, efficient, and user-friendly.
