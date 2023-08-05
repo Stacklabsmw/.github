@@ -1,4 +1,3 @@
-# .github
 # Stacklabs
 
 Welcome to the Stack System Labs GitHub page! We are a software development company, registered under the Registrar of companies in Malawi, that specializes in community work in the IT industry, mobile application development and IT Consultancy.
@@ -12,9 +11,9 @@ In addition to our work in the IT industry, we are also committed to giving back
 We have several ongoing projects that we are excited to share with the open-source community. These include:
 
 * Spyaware: A mobile application for tracking if there are suspicious app hidden deep in the Android system that could not be detected by antiviruses.
-* Nyumba265: A Mobile application to facilitate search for houses and apartments in Malawi easily. - https://play.google.com/store/apps/details?id=com.sebaslabs.nyumba
-
-* Katolika: A Mobile application for the Malawian Community of Catholics and the Catholic Church. - https://play.google.com/store/apps/details?id=com.stacklabs.katolika
+* Nyumba265: A Mobile application to facilitate search for houses and apartments in Malawi easily. - [Nyumba265 App](https://play.google.com/store/apps/details?id=com.stacklabs.nyumba)
+* Nyumba265: A Mobile application for Agents to upload and manage their apartments for the Nyumba265 App. - [Nyumba for Agents App](https://play.google.com/store/apps/details?id=com.stacklabs.nyumba_agent)
+* Katolika: A Mobile application for the Malawian Community of Catholics and the Catholic Church. - [Katolika App](https://play.google.com/store/apps/details?id=com.stacklabs.katolika)
 
 All of our projects are built using the latest technologies and best practices in software development. We are constantly updating and improving our code to ensure that our products are secure, efficient, and user-friendly.
 
@@ -26,8 +25,7 @@ We use a variety of technologies to build our software products and services. Th
 * Cloud technologies: AWS, Azure, Google Cloud Platform
 
 ## Developer Profile
-* https://play.google.com/store/apps/dev?id=7494628478465372396
+[Stacklabs Google Developer Profile](https://play.google.com/store/apps/dev?id=7494628478465372396)
 
 ## Contact Us
 Thank you for visiting our GitHub page! If you have any questions or would like to learn more about our company, please don't hesitate to contact us at info@stacklabsmw.com.
-
