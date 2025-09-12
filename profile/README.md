@@ -1,7 +1,7 @@
 # Stacklabs
 
 Welcome to the Stack System Labs GitHub page! We are a software development company, registered under the Registrar of companies in Malawi, that specializes in community work in the IT industry, mobile application development and IT Consultancy.
-
+ 
 ## About Us
 At Stacklabs, we believe in creating innovative solutions that make a positive impact on society. We are passionate about using technology to solve real-world problems and improve people's lives. Our team is made up of experienced developers and designers who are committed to delivering high-quality software products and services.
 
